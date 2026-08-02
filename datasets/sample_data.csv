@@ -1,0 +1,11 @@
+Employee_ID,Name,Gender,Age,Department,City,Experience_Years,Salary,Performance_Score,Joining_Date,Is_Remote,Email
+1001,Ali Khan,Male,25,IT,Lahore,2,65000,8.5,2023-01-15,True,ali.khan@email.com
+1002,Sara Ahmed,Female,28,HR,Karachi,5,85000,9.2,2020-06-20,False,sara.ahmed@email.com
+1003,Ahmed Raza,Male,31,Finance,Islamabad,7,98000,8.9,2018-03-10,True,ahmed.raza@email.com
+1004,Fatima Noor,Female,24,Marketing,Faisalabad,1,55000,7.8,2024-02-01,False,fatima.noor@email.com
+1005,Hassan Ali,Male,29,IT,Lahore,4,82000,8.4,2021-09-12,True,hassan.ali@email.com
+1006,Ayesha Malik,Female,35,Finance,Karachi,10,120000,9.7,2015-07-18,False,ayesha.malik@email.com
+1007,Umar Farooq,Male,27,Sales,Rawalpindi,3,72000,8.0,2022-05-25,True,umar.farooq@email.com
+1008,Zainab Tariq,Female,30,IT,Islamabad,6,95000,9.1,2019-11-08,True,zainab.tariq@email.com
+1009,Bilal Ahmed,Male,26,Support,Multan,2,60000,7.9,2023-04-03,False,bilal.ahmed@email.com
+1010,Maria Khan,Female,33,HR,Lahore,8,105000,9.4,2017-08-15,True,maria.khan@email.com
