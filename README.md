@@ -44,7 +44,6 @@ exploratory-data-analysis/
 ├── 09-multivariate-analysis/
 ├── 10-data-visualization/
 ├── datasets/
-└── projects/
 ```
 
 ## 🚀 Getting Started
